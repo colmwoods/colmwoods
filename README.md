@@ -29,21 +29,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=colmwoods&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colmwoods&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Portfolio & Projects
 
-- [My Portfolio Website](https://YOURPORTFOLIOLINK.com)  
-- [Project 1](https://github.com/YOURUSERNAME/project1) – Short description  
-- [Project 2](https://github.com/YOURUSERNAME/project2) – Short description  
+- [Project 1](https://github.com/colmwoods/RepX-Gym) – Short description  
+- [Project 2](https://github.com/colmwoods/Computer-Trivia-Quiz) – Short description  
 
 ---
 
-✨ Thanks for stopping by! Connect with me on [LinkedIn](https://www.linkedin.com) 🚀
+✨ Thanks for stopping by! Connect with me on [LinkedIn](https://www.linkedin.com/in/colm-woods-6411bb2a8/) 🚀
 =======
 
 <!--
