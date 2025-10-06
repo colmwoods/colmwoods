@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 👋 Hi, I'm Colm
 
 💻 Aspiring Full Stack Developer | 🚀 Passionate about building web apps and learning new technologies  
@@ -46,7 +45,6 @@
 
 ✨ Thanks for stopping by! Connect with me on [LinkedIn](https://www.linkedin.com) 🚀
 =======
-## Hi there 👋
 
 <!--
 **colmwoods/colmwoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,4 +60,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 78bb315e0282c6487a9148e39fec1393af2113ad
