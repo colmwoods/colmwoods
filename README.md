@@ -1,6 +1,11 @@
-# 👋 Hi, I'm Colm
+# 👋 Colm Woods
 
-💻 Aspiring Full Stack Developer | 🚀 Passionate about building web apps and learning new technologies  
+💻 Aspiring Full Stack Developer | 🚀 Passionate about building web apps and learning new technologies 
+Currently pursuing a Diploma in Full Stack Software Development with Code Institute, I’m passionate about building scalable, data-driven applications and applying modern software practices to real business challenges.
+
+I operate with a “Learn → Build → Analyse → MVP” mindset — continuously learning new technologies, building solutions, analyzing results, and refining systems for greater efficiency. By collaborating with sales and operations teams, I contribute to better quoting accuracy, improved buyer journeys, and streamlined transactions.
+
+As I progress through my full-stack studies, I’m eager to apply my growing development skills to software engineering roles in Ireland, combining my technical foundation with a focus on problem-solving, innovation, and automation. 
 
 ---
 
